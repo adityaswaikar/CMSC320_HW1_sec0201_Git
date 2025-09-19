@@ -10,4 +10,8 @@ Answer: Finance, especially with market trend predictions.
 Q3: What is the difference between Merging and Rebasing?
 
 Answer: Merging protects the unedited history of the codebase versus rebasing 
-stores changes chronologically and on top of the branch. 
+stores changes chronologically and on top of the branch.
+
+Q4: What are you looking forward to this semester?
+
+Answer: Getting more into upper levels and improving in the gym. 

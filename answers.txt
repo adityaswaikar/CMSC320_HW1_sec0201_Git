@@ -6,3 +6,8 @@ members in a effortless manner.
 Q2: What field could data science be applied to? Give an Example.
 
 Answer: Finance, especially with market trend predictions.
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: Merging protects the unedited history of the codebase versus rebasing 
+stores changes chronologically and on top of the branch. 
